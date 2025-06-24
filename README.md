@@ -2,6 +2,14 @@
 
 🧠 Designed and implemented a modular real-time behavior control for a ground robot, integrating sensor fusion, computer vision, and decision-making algorithm into a cohesive embedded system.
 
+--- 
+
+## The projects
+
+The maze solver can autonomously navigate and escape from a maze while collecting all the objects along the way.
+The self-sustained robot is capable of picking up objects and returning to the charging station every 2 minutes.
+The track follower reliably follows a path marked by alternating blue and yellow cones.
+
 ---
 
 ## 🚀 Features
@@ -14,7 +22,7 @@
 
 ---
 
-## Video Demo
+## Track follower Video Demo
 
 Under very low-light conditions, careful tuning and repeated use of Data Replay are essential:
 
@@ -53,6 +61,15 @@ Even under challenging low-light conditions, the robot is able to reliably follo
 
 <pre>
 
+├── maze_solver
+├── self_sustained_robot
+├── track_follower
+├── tuning
+├── LICENSE
+└── README
+  
+inside a repo:
+  
 src/ # Source code and perception node
 ├── opendlv-perception-helloworld.cpp
 ├── cluon-complete-v0.0.145.hpp
@@ -60,10 +77,4 @@ src/ # Source code and perception node
 ├── terminal_task2_commands.txt
 └── terminal_task2_sim_commands.txt
 
-recordings/ # Log or sensor data for replay
-├── Dockerfile # Container definition
-├── docker-compose.yml # Multi-container orchestration
-├── CMakeLists.txt # Build system
-├── .gitlab-ci.yml # CI configuration
-└── LICENSE
 </pre>
