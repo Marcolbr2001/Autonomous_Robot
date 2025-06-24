@@ -6,9 +6,9 @@
 
 ## The projects
 
-The maze solver can autonomously navigate and escape from a maze while collecting all the objects along the way.
-The self-sustained robot is capable of picking up objects and returning to the charging station every 2 minutes.
-The track follower reliably follows a path marked by alternating blue and yellow cones.
+- The maze solver can autonomously navigate and escape from a maze while collecting all the objects along the way.
+- The self-sustained robot is capable of picking up objects and returning to the charging station every 2 minutes.
+- The track follower reliably follows a path marked by alternating blue and yellow cones.
 
 ---
 
