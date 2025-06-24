@@ -78,3 +78,5 @@ src/ # Source code and perception node
 └── terminal_task2_sim_commands.txt
 
 </pre>
+
+Inside the 'tuning' folder, you'll find a very useful tool for image tuning and visualization.
