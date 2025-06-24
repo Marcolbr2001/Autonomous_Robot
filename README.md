@@ -21,6 +21,15 @@ A modular autonomous robot system built with the OpenDLV ecosystem and C++. This
     <img src="https://img.youtube.com/vi/-OJeIpq-1BA/hqdefault.jpg" alt="Watch the video" width="800">
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://youtube.com/shorts/32uIe9tmV-Q" target="_blank">
+    <img src="https://img.youtube.com/vi/shorts/32uIe9tmV-Q/hqdefault.jpg" alt="Watch the video" width="800">
+  </a>
+</p>
+
+
 ---
 
 ## 🛠️ Tech Stack
