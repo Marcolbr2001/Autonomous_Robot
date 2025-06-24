@@ -16,19 +16,13 @@ A modular autonomous robot system built with the OpenDLV ecosystem and C++. This
 
 ## Video Demo
 
+Data Replay:
+
 <p align="center">
   <a href="https://youtu.be/-OJeIpq-1BA" target="_blank">
     <img src="https://img.youtube.com/vi/-OJeIpq-1BA/hqdefault.jpg" alt="Watch the video" width="800">
   </a>
 </p>
-
-
-<p align="center">
-  <a href="https://youtube.com/shorts/32uIe9tmV-Q" target="_blank">
-    <img src="https://img.youtube.com/vi/32uIe9tmV-Q/hqdefault.jpg" alt="Watch the video" width="800">
-  </a>
-</p>
-
 
 ---
 
@@ -42,6 +36,16 @@ A modular autonomous robot system built with the OpenDLV ecosystem and C++. This
 - **Simulated task commands** for replay testing
 
 ---
+
+## Get into track!
+
+<p align="center">
+  <a href="https://youtube.com/shorts/32uIe9tmV-Q" target="_blank">
+    <img src="https://img.youtube.com/vi/32uIe9tmV-Q/hqdefault.jpg" alt="Watch the video" width="800">
+  </a>
+</p>
+
+--- 
 
 ## 📁 Repository Structure
 
