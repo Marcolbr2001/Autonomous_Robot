@@ -68,7 +68,7 @@ Even under challenging low-light conditions, the robot is able to reliably follo
 ├── LICENSE
 └── README
   
-inside a repo:
+inside a project folder:
   
 src/ # Source code and perception node
 ├── opendlv-perception-helloworld.cpp
