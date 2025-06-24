@@ -1,4 +1,4 @@
-# 🤖 Autonomous Robot – OpenDLV
+# 🤖 Autonomous Mobile Robot Systems: Vision, Sensors & Behavioral Control
 
 🧠 Designed and implemented a modular real-time behavior control for a ground robot, integrating sensor fusion, computer vision, and decision-making algorithm into a cohesive embedded system.
 
