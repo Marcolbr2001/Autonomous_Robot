@@ -1,0 +1,30 @@
+./opendlv-perception-helloworld \
+--cid=111 \
+--name=video0.bgr \
+--width=1280 \
+--height=720 \
+--base-thrust=0.1 \
+--ki=0.001 \
+--kp=0.03 \
+--offset=0.1 \
+--recover-left=0.1 \
+--recover-right=0.15 \
+--bH_min=100 \
+--bH_max=179 \
+--bS_min=200 \
+--bS_max=255 \
+--bV_min=50 \
+--bV_max=255 \
+--yH_min=20 \
+--yH_max=40 \
+--yS_min=200 \
+--yS_max=255 \
+--yV_min=50 \
+--yV_max=255 \
+--mask-threshold=0.40 \
+--traj-size=40 \
+--flatten=0.7f \
+--yOffset=900 \
+--min-cone-area=100 \
+--verbose
+

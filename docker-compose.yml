@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  data-replay-video-h264:
+    image: registry.opendlv.org/community/opendlv-data-replay-video-h264:1.1
+    network_mode: "host"
+    ipc: "host"
+    volumes:
+      - ./recordings:/recordings
+      - /tmp:/tmp
+    environment:
+      - DISPLAY=${DISPLAY}
+    command: "--cid=111 --rgb --name=replay --autorewind /recordings/video-group11-track-1-20250508-1115.rec"
+

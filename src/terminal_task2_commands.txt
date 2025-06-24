@@ -1,0 +1,30 @@
+./opendlv-perception-helloworld \
+--cid=111 \
+--name=replay.rgb \
+--width=1280 \
+--height=720 \
+--base-thrust=0.1 \
+--ki=0.001 \
+--kp=0.03 \
+--offset=0.1 \
+--recover-left=0.1 \
+--recover-right=0.15 \
+--bH_min=0 \
+--bH_max=179 \
+--bS_min=0 \
+--bS_max=162 \
+--bV_min=0 \
+--bV_max=60 \
+--yH_min=20 \
+--yH_max=28 \
+--yS_min=180 \
+--yS_max=255 \
+--yV_min=130 \
+--yV_max=210 \
+--mask-threshold=0.40 \
+--traj-size=45 \
+--flatten=0.7f \
+--yOffset=1000 \
+--min-cone-area=150 \
+--verbose
+
