@@ -16,7 +16,7 @@ A modular autonomous robot system built with the OpenDLV ecosystem and C++. This
 
 ## Video Demo
 
-Data Replay:
+Under very low-light conditions, careful tuning and repeated use of Data Replay are essential:
 
 <p align="center">
   <a href="https://youtu.be/-OJeIpq-1BA" target="_blank">
@@ -38,6 +38,8 @@ Data Replay:
 ---
 
 ## Get into track!
+
+Even under challenging low-light conditions, the robot is able to reliably follow the track!
 
 <p align="center">
   <a href="https://youtube.com/shorts/32uIe9tmV-Q" target="_blank">
