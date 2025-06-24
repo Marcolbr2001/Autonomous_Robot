@@ -29,13 +29,14 @@ A modular autonomous robot system built with the OpenDLV ecosystem and C++. This
 
 <pre>
 
-  ├── src/ # Source code and perception node
-│ ├── opendlv-perception-helloworld.cpp
-│ ├── cluon-complete-v0.0.145.hpp
-│ ├── opendlv-message-standard-1.0.odvd
-│ ├── terminal_task2_commands.txt
-│ └── terminal_task2_sim_commands.txt
-├── recordings/ # Log or sensor data for replay
+src/ # Source code and perception node
+├── opendlv-perception-helloworld.cpp
+├── cluon-complete-v0.0.145.hpp
+├── opendlv-message-standard-1.0.odvd
+├── terminal_task2_commands.txt
+└── terminal_task2_sim_commands.txt
+
+recordings/ # Log or sensor data for replay
 ├── Dockerfile # Container definition
 ├── docker-compose.yml # Multi-container orchestration
 ├── CMakeLists.txt # Build system
