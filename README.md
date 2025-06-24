@@ -1,4 +1,4 @@
-# 🤖 Autonomous Robot – OpenDLV Obstacle Avoider
+# 🤖 Autonomous Robot – OpenDLV
 
 A modular autonomous robot system built with the OpenDLV ecosystem and C++. This project enables real-time obstacle avoidance using simulated and real sensor data, designed for Dockerized environments and reproducible robotics experiments.
 
